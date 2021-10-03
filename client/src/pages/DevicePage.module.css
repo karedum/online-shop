@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+
+.device_page {
+    padding: 0 20px;
+}
+
+.device_image {
+    width: 500px;
+    height: 300px;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
